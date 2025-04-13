@@ -1,0 +1,1 @@
+///Crie um módulo math.js com funções como soma, subtrai, etc., e use elas no index.js.

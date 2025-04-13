@@ -1,0 +1,1 @@
+///Faça leitura de arquivos usando callback, depois refatore usando Promises com fs.promises.
